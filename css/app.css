@@ -462,6 +462,7 @@ body {
   padding: 10px;
   margin-bottom: 5px;
   font-size: 15px;
+  border: solid 1px #b7871b;
 }
 
 #input_button:hover{
