@@ -482,7 +482,7 @@ body {
   overflow-x: hidden;
   background: rgba(205, 205, 205, 0.1);
   /* padding-right: 10px; */
-  font-family: 'Playfair Display', serif;
+  /* font-family: 'Playfair Display', serif; */
 }
 
 .container2{
@@ -572,7 +572,7 @@ body {
 
 #task_title{
   /* font-family:monospace; */
-  font-family: 'Playfair Display', serif;
+  /* font-family: 'Playfair Display', serif; */
   font-size:15px;
   width:100%;
   text-align: left;
@@ -589,7 +589,7 @@ body {
   text-align: left;
   padding: 0;
   /* font-family:monospace; */
-  font-family: 'Playfair Display', serif;
+  /* font-family: 'Playfair Display', serif; */
   font-size:15px;
   font-weight: bold;
   padding-top: 5px;
@@ -600,7 +600,7 @@ body {
   text-align: left;
   padding: 0;
   /* font-family:monospace; */
-  font-family: 'Playfair Display', serif;
+  /* font-family: 'Playfair Display', serif; */
   font-size:15px;
   font-weight: bold;
   padding-top: 5px;
