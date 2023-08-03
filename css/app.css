@@ -414,7 +414,7 @@ body {
   border: 1px solid #b7871b;
   color: #b7871b;
   /* font-family: 'Josefin Sans',sans-serif; */
-  font-family: 'Playfair Display', serif;
+  /* font-family: 'Playfair Display', serif; */
 }
 
 #name::-webkit-input-placeholder,
